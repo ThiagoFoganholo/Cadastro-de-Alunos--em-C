@@ -28,18 +28,12 @@ Os ponteiros, por sua vez, desempenham um papel crucial na otimização do uso d
 É necessário ter sido instalado o [Clion](https://www.jetbrains.com/pt-br/clion/download/#section=windows) para fazer os rodar o software de Sistemas Bancarias, abaixar o [Git](https://git-scm.com/download/win) para ter terminal do git e será necessário clonar o repositório em sua maquina, inserindo o comando:
 
 ```bash
-git clone https://github.com/ThiagoFoganholo/Sistema-de-Contas-Bancarias/branches
+git clone https://github.com/ThiagoFoganholo/Cadastro-de-Alunos--em-C
 ```
 
 Ao rodar o projeto verifica a sua versão do Cmake, pois o software está rodando na versão (VERSION 3.24) .
 
 ## 🚀 Começando
-
-Reforçando é necessário clonar o repositório em sua maquina, inserindo o comando:
-
-```bash
-git clone https://github.com/ThiagoFoganholo/Sistema-de-Contas-Bancarias/branches
-```
 
 Caso os codigos não rodem ao abaixar, é recomendado criar os arquivos com os mesmo nomes e colar os codigos nos arquivos criados e rodar o software, o codigo pode não rodar por incompatibilidade de softwares.
 
