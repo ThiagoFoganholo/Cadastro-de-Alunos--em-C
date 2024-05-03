@@ -63,7 +63,7 @@ void imprimirAlunos() {
 
 void freeMemory(){
     Alunos *alunoAtual = prt_aluno;
-   Alunos *proximoAluno = NULL;
+    Alunos *proximoAluno = NULL;
 
     while (alunoAtual != NULL) {
         proximoAluno = alunoAtual->proxAluno; // Salva o próximo aluno antes de liberar a memória
