@@ -1,0 +1,3 @@
+C:/Users/thiago/Desktop/Nova pasta (4)/struct com ponteiros/cmake-build-debug/CMakeFiles/struct_com_ponteiros.dir
+C:/Users/thiago/Desktop/Nova pasta (4)/struct com ponteiros/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/thiago/Desktop/Nova pasta (4)/struct com ponteiros/cmake-build-debug/CMakeFiles/rebuild_cache.dir
